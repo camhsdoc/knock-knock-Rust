@@ -10,6 +10,18 @@ cargo build
 
 cargo run
 
+## Usage
+
+This project contains binaries under `src/bin/`.
+
+Run a specific binary with:
+
+cargo run --bin <name>
+
+List available binaries with:
+
+cargo run --bin
+
 ## Notes
 
 Learning project focused on:
